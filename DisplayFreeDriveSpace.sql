@@ -4,7 +4,7 @@
 	Create date:
 		21.02.2008
 	Description:	
-		Following script display disk usage and free space
+		Following script display disk free space.
 	Limitations of this version:
 		- None. 
 */
