@@ -1,6 +1,6 @@
 /*
 	Author:
-		Dmitry Spitsy
+		Dmitry Spitsyn
 	Create date:
 		21.02.2008
 	Description:	
